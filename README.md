@@ -4,7 +4,8 @@ Welcome to **GearUp-Sports** — a modern, high-performance E-commerce platform 
 
 ## 🚀 Live Demo
 
-[👉 View Live Site](https://your-live-site-link.com)
+[👉 View Live Site](https://gearupsports.vercel.app/)
+
 
 ## 📸 Screenshots
 

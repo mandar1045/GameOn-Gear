@@ -35,7 +35,7 @@ const UPIPaymentModal: React.FC<UPIPaymentModalProps> = ({
   const [paymentResponse, setPaymentResponse] = useState<PaymentResponse | null>(null);
   const [timeLeft, setTimeLeft] = useState(300); // 5 minutes timer
 
-  const amountINR = convertUSDToINR(amount);
+  const amountINR = (amount*100/100);
   const isMobileDevice = isUPISupported();
 
   // Timer for payment timeout

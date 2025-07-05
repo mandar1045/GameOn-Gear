@@ -9,9 +9,8 @@ Welcome to **GearUp-Sports** — a modern, high-performance E-commerce platform 
 
 ## 📸 Screenshots
 
-![Home Page](./screenshots/home.png)
-![Product Page](./screenshots/product.png)
-![Cart](./screenshots/cart.png)
+![Screenshot 2025-07-05 125652](https://github.com/user-attachments/assets/0040afc0-97ab-4732-a884-367ec953f55e)
+
 
 ## 🛠️ Tech Stack
 

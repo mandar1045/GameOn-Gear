@@ -1,4 +1,5 @@
-# GearUp Sports - Database Management System
+# GearUp Sports - E-Commerce platform for the sports equipments
+
 
 A comprehensive sports equipment e-commerce platform with advanced database management capabilities supporting 500+ users.
 
